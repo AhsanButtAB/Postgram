@@ -15,6 +15,9 @@ On each coupon creation, a smart contract gets deployed on the Binance Smart Cha
 ## Binance Smart Chain Testnet
 The contract is deployed on Binance Chain at 0xe1fdaEfE799dfc430b8db3D8C1A8F3397a30514c
 
+## Demo
+https://github.com/AhsanButtAB/Postgram/blob/main/demo.gif
+
 ## Tech Stack
 React.js, Solidity, IPFS, NFT, Bootstrap, BSC
 
